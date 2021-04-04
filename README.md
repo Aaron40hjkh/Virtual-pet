@@ -1,2 +1,2 @@
-# Virtual-pet
-dd
+# Virtual.Pet
+Project 36 WHJR
